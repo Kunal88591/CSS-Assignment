@@ -1,0 +1,26 @@
+
+
+* {
+    text-align: center;
+    font-family: Georgia;
+    line-height: 30px;
+}
+
+p {
+    color: #a52a2a;
+}
+
+a {
+    color: #008000;
+    text-decoration: none;
+    font-style: normal;
+}
+
+button {
+    color: blueviolet;
+    background-color: #f0f0f0;
+}
+
+textarea{
+    color: black;
+}
