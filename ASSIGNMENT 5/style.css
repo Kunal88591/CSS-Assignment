@@ -1,0 +1,43 @@
+
+
+.container {
+ height: 400px;
+ width: 400px;
+ background-color: white;
+ border-radius: 5px;
+ border: 3px solid greenyellow;
+ display: flex; 
+  flex-wrap: wrap; 
+  justify-content: center; 
+  align-items: center; 
+  gap: 10px; 
+}
+.abc{
+    height: 100px;
+    width: 100px;
+    background-color: gray;
+    font-size: 50px;
+    border-radius: 5px;
+    border: 2px solid black;
+    margin: 5px;
+    display: flex;
+    justify-content: center; /* Align items horizontally */
+    align-items: center; /
+
+}
+
+#navbar{
+  display: flex;
+  background-color: pink;
+  border: 2px solid teal;
+  border-radius: 10px;
+  padding: 10px 20px;
+  width: 900px;
+  font-size: 24px;
+  gap: 30px;
+  
+}
+
+.xy{
+  font-weight: bold;
+}
